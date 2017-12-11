@@ -3,22 +3,18 @@ If you are working in a team, a version control system can help solve problems b
    Imagine that you are working on a particular project with a team. Your team members are working on different files of the same project and creating new files on their computers. Guess how difficult it is to revert the changes if someone makes a mistake or made something unnecessary. How complicated would it be to assemble the entire project when the work is done. It seems so difficult and this is where the version control system comes in. It keeps tracks of changes you all make and help you get back to any previous part even after going a long way with the project.
 What is version control system?
 
-Version control system is a type of software tool that helps you manage different changes to source codes over time. It keeps the record of every modification made by any team member working on the same project. Anyone can revert to the previous code if a mistake is made or if the changes are not good enough without having to affect anyone else’s code.
+Version control system is a type of software tool that helps you manage different changes to source codes over time. It keeps the record of every modification made by any team member working on the same project. Anyone can revert to the previous code if a mistake is made or if the changes are not good enough without having to affect anyone elseâ€™s code.
 Types of version control system
 
 There are two types of version control system, the type differs from how they are managed. There are two types of version control systems on the basis of where the projects are stored and how they will be accessed.
 Distributed version control
-
-Distributed version control system is a contributor based system where each of the contributors has their own clone of the repository. Everyone has the access to all files with the entire history of the codebase. Alongside storing projects in a particular server, it lets everyone have a clone of the projects and work independently. Git and Mercurial are such version control systems.
-Centralized version control
-
-Centralized version control system stores projects in server-side repositories. Every contributor checks out file and commit changes to the central location. You have to access the server to work and no work is committed until the server is back up and running. Perforce and Subversion are the example of centralized version control.
+ file and commit changes to the central location. You have to access the server to work and no work is committed until the server is back up and running. Perforce and Subversion are the example of centralized version control.
 Why should you use a version control system?
 
 Developers find so many reasons to use version control system that they cannot stay away from it. Alongside helping you with teamwork, it has a lot of other benefits.
 Keeps tracks of every modification
 
-The first and foremost benefit is it keeps the record of all modifications made to your project. You can get back to previous modifications anytime in future and bring required changes again. If you work without a version control system, there’s no such easy way to keep this record. Your work is safe along with its modifications it has got along the way.
+The first and foremost benefit is it keeps the record of all modifications made to your project. You can get back to previous modifications anytime in future and bring required changes again. If you work without a version control system, thereâ€™s no such easy way to keep this record. Your work is safe along with its modifications it has got along the way.
 Team collaboration
 
 Everybody in the team is able to work freely on any file at any time. The version control system will let you merge all the changes into a common version. Creating files and modifying the present files is quite easy here. In case of a large-scale project, it brings everyone on a single platform making it easy for everyone to contribute without hampering others.
@@ -27,6 +23,6 @@ Stores versions for further use or modification
 A version control system does not only let you work on it with a team or individually but also stores all of your versions properly so that you can revert to any version any time you want.
 Works as a backup tool
 
-A version control system can act as a backup tool. All team member has a full version of the project on their disk including the project’s complete history. If in any case, your central server breaks down. You can recover projects from one of your teammates’ local repository (if that is on a distributed version control system like Git).
+A version control system can act as a backup tool. All team member has a full version of the project on their disk including the projectâ€™s complete history. If in any case, your central server breaks down. You can recover projects from one of your teammatesâ€™ local repository (if that is on a distributed version control system like Git).
 
 I hope you want to know more about version control system, may be any version control system in particular after knowing what it is and why you really need it. We are going to publish a complete guide to git in a series of blog post. Keep visiting our website regularly for more of such posts.
