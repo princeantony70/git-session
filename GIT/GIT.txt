@@ -1,4 +1,4 @@
-If you are working in a team, a version control system can help solve problems by tracking every change by each of the contributors and protect the ongoing work from conflicting.
+﻿If you are working in a team, a version control system can help solve problems by tracking every change by each of the contributors and protect the ongoing work from conflicting.
 
    Imagine that you are working on a particular project with a team. Your team members are working on different files of the same project and creating new files on their computers. Guess how difficult it is to revert the changes if someone makes a mistake or made something unnecessary. How complicated would it be to assemble the entire project when the work is done. It seems so difficult and this is where the version control system comes in. It keeps tracks of changes you all make and help you get back to any previous part even after going a long way with the project.
 What is version control system?
@@ -26,3 +26,6 @@ Works as a backup tool
 A version control system can act as a backup tool. All team member has a full version of the project on their disk including the project’s complete history. If in any case, your central server breaks down. You can recover projects from one of your teammates’ local repository (if that is on a distributed version control system like Git).
 
 I hope you want to know more about version control system, may be any version control system in particular after knowing what it is and why you really need it. We are going to publish a complete guide to git in a series of blog post. Keep visiting our website regularly for more of such posts.
+
+
+/*** here is an update ***/
